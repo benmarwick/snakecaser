@@ -1,0 +1,4 @@
+Name: snake caser
+Description: Convert character strings to snake case
+Binding: snake_caser
+Interactive: false

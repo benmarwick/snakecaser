@@ -1,0 +1,13 @@
+Package: snakecaser
+Type: Package
+Title: Convert Character Strings to Snake Case
+Version: 0.1.0
+Authors@R: person("Ben", "Marwick", role = c("aut", "cre"), email = "benmarwick@gmail.com")
+Maintainer: Ben Marwick <bmarwick@gmail.com>
+Description: An RStudio Add-in For Converting Character Strings to Snake Case.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
+Imports: rstudioapi
