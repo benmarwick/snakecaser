@@ -2,7 +2,7 @@
 snakecaser
 ==========
 
-The goal of snakecaser is to privide an RStudio add-in for converting a character string to snake case. I often want to do this when I create objects in R and want to name them with short descriptive phrases.
+The goal of snakecaser is to provide an RStudio add-in for converting a character string to snake case. I often want to do this when I create objects in R and want to name them with short descriptive phrases.
 
 Examples
 --------
@@ -35,6 +35,6 @@ Related
 
 [Tazinho/snakecase](https://github.com/Tazinho/snakecase): A very thorough and systematic package for converting strings to several different varieties of common cases.
 
-[sfirke/janitor](https://github.com/sfirke/janitor): Contains numerous functions for examining and cleaning dirty data, including `clean_names()`, which is a through snake case converter.
+[sfirke/janitor](https://github.com/sfirke/janitor): Contains numerous functions for examining and cleaning dirty data, including `clean_names()`, which is a thorough snake case converter.
 
 [hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr/issues/7): For reading tables from Microsoft Word docx documents, has `mcga()` for making column names great by converting them to snake case. The direct inspiration for this add-in.
