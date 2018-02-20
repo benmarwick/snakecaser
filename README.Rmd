@@ -49,4 +49,5 @@ devtools::install_github("benmarwick/snakecaser")
 
 [hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr/issues/7): For reading tables from Microsoft Word docx documents, has `mcga()` for making column names great by converting them to snake case. The direct inspiration for this add-in. 
 
-[decisionpatterns/lettercase](https://github.com/decisionpatterns/lettercase): Utilities for formatting strings and character vectors to for capitalization, word break and white space, including a snake case converter `lettercase::str_snake_case()`.
+[decisionpatterns/lettercase](https://github.com/decisionpatterns/lettercase): Utilities for formatting strings with consistent capitalization, word
+    breaks and white space, including a snake case converter `lettercase::str_snake_case()`.
