@@ -38,3 +38,5 @@ Related
 [sfirke/janitor](https://github.com/sfirke/janitor): Contains numerous functions for examining and cleaning dirty data, including `clean_names()`, which is a thorough snake case converter.
 
 [hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr/issues/7): For reading tables from Microsoft Word docx documents, has `mcga()` for making column names great by converting them to snake case. The direct inspiration for this add-in.
+
+[decisionpatterns/lettercase](https://github.com/decisionpatterns/lettercase): Utilities for formatting strings with consistent capitalization, word breaks and white space, including a snake case converter `lettercase::str_snake_case()`.
