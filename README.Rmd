@@ -26,7 +26,7 @@ And here is what is looks like after the snakecaser add-in is used on it:
 
 here_is_some_rather_simple_example_text
 
-There is also a function, `to_snake_case()`, which can be called directly, independant of the RStudio add-in:
+There is also a function, `to_snake_case()`, which can be called directly, independent of the RStudio add-in:
 
 ```{r example}
 library(snakecaser)
